@@ -7,11 +7,11 @@
 </div>
 
  <div id="header" align="center" color="red"> 
-  
-  <div align="center"><h2  align="center">I'M >>>Software QA Engineer <<< </h2></div>
+  <h1><ins> Hello! My name is Aleksandr Guz </ins></h1>
+ 
   <img  align="left" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
   <img  align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
-   <h1><ins> Hello! My name is Aleksandr Guz </ins></h1>
+    <div align="center"><h2  align="center">I'M >>>Software QA Engineer <<< </h2></div>
 </div>
 
 
