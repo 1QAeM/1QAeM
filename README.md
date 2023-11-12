@@ -35,18 +35,34 @@
 
 <div>
 <h2 align="center"> So what can I work with...:hammer_and_wrench: Languages and Tools </h2>
+ <a1 href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ </a1>
+ <a2 href="https://en.wikipedia.org/wiki/HTML">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ </a2>
+ <a3 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ </a3>
+ <a4 href="https://www.python.org/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-    
+ </a4>
+    <a5 htef="https://www.selenium.dev/">
   <img src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+    </a5>
+ <a6 href="https://www.mysql.com/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
+ </a6>
+ <a7 href="https://www.postman.com/">
        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+ </a7>
  </div>
 
  <div id="badges" align="center">
-  <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="https://www.linkedin.com/in/aleksandrguz/"/>
+   <a href="https://www.linkedin.com/in/aleksandrguz/">
+  <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+   </a>
+  <b href="https://www.linkedin.com/in/aleksandrguz/">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+  </b>
+  </div>
