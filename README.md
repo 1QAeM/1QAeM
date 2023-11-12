@@ -24,7 +24,7 @@ I love
 [<img align="left"> alt="SQL">]
 [<img align="left"> alt="Selenium">]
 
-[<img align="left"> alt="Linkedin" src="https://www.flaticon.com/free-animated-icon/computer_6172527)">][linkedin]
+[<img align="left"> alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/aleksandrguz/
