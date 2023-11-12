@@ -71,3 +71,8 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
+  #About me
+  -Love my wife
+  -Love what i do
+  -Love to learn new things
+  -Love play,create,testing computer games
