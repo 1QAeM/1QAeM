@@ -2,34 +2,25 @@
 <div id="header">
    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1024" height="200" color="red"/>
 </div>
-
  <div id="header" align="center"> 
   <img  align="left" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
     <img  align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
      <h1><ins> Hello! My name is Aleksandr Guz </ins></h1>
        <h2  align="center">I'M >>>Software QA Engineer <<< </h2>
 </div>
-
 <div>   
  <img align="right" src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1024" height="128"/>
-
-</div>
-
-   
+</div>   
 <div> 
  <h1 align="center"> I 💗 💻...but not🖤 BUGS.....That's why I hunt them👀 </h1>
- <img align="center" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/>
- 
+ <img align="center" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/> 
  <img align="center" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" width="200" height="200"/>
  <img align="center" src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
  <img align="center" src="https://media.giphy.com/media/fTne319LfO6Noh80qD/giphy.gif" width="200" height="200"/>
- <img align="center" src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="190" height="200"/>
- 
+ <img align="center" src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="190" height="200"/> 
 </div>
-
 <br/>
 <br/>
-
 <div>
 <h2 align="center">:hammer_and_wrench: Languages and Tools </h2>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -62,10 +53,6 @@
 title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
    
-
-
-
- 
  <dev><h1 align="center"> About me </h1></dev>
   <dev>
  <h3 align="center">-Love my wife</h3>
