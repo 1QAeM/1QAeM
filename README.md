@@ -1,12 +1,12 @@
 # Portfolio
 #Fopolitro
 <div id="header" align="center">
-   <img align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200" color="red"/>
+   <img align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200" color=red/>
    <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200"/>
       <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200"/>
       <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200"/>
       <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200"/>
-   <img align="right" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200"/>
+  
 
 </div>
 <div id="header" alighn="center"> 
