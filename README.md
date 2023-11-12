@@ -22,8 +22,8 @@
 <div> 
  <h1 align="left"> I 💗 💻...but not🖤 BUGS.....That's why I hunt them</h1>
  <img  src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/>
- 
- 
+ <img  src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/>
+ <img  src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/>
 </div>
 
 
