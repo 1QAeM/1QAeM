@@ -9,7 +9,7 @@
 </div>
 
 <div alighn="center">
-  <h1>I'M >>> Software QA Engineer <<< </h1>
+  <h1  alighn="center">I'M >>> Software QA Engineer <<< </h1>
 </div>
 <div>
  <a1> if you are here, then you are wondering who I am...</a1>
