@@ -19,7 +19,7 @@
 <div>
  <a1> if you are here, then you are wondering who I am...</a1>
 <a11>I very love work with computers </a11>
- <img align="right" src=" https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="90" height="200"/>
+ <img align="right" src=" https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="100" height="100"/>
 
 </div>
 </div>
