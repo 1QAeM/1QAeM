@@ -1,5 +1,8 @@
 # Portfolio
 #Fopolitro
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div id="header" alighn="center"> 
   <h1> Hello) How are you doing today?) </h1>
   <h1> My name is Aleksandr </h1>
@@ -10,16 +13,16 @@
 </div>
 <div>
  <a1> if you are here, then you are wondering who I am...</a1>
- <a2> or, as they say in some countries " what kind of fruit are you " ?)</a2>
-    <a href="https://www.linkedin.com/in/aleksandrguz/">
+
+  <a2 href="https://www.linkedin.com/in/aleksandrguz/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  <a href="your-youtube-URL">
+    </a2>
+  <a3 href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  </a3>
+  <a4 href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a4>
 </div>
 </div>
 
