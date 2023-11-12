@@ -10,4 +10,4 @@ I love
 -:computer: Computers 
 
 ### Skills and Tools
-[<img align="left"> alt="HTML5" width="26px" src=" https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif"]
+[<img align="left"> alt="HTML5" width="100px" src=" https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif"]
