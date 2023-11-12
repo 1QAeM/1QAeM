@@ -66,7 +66,7 @@
  
  <dev><h1 align="center">About me </h1></dev>
   <dev>
- <h3 align="left">-Love my wife                                              -Love to learn new things</h3>
+ <h3 align="left">-Love my wife</h3>
    <h3 align="left">-Love what i do</h3>
      <h3 align="right">-Love to learn new things</h3>
        <h3 align="right">-Love play,create,testing computer games</h3>
@@ -75,7 +75,7 @@
            <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
          </a>
          <a href="https://www.youtube.com/watch?v=OD7uVurKx14">
-           <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="My_Game"/>
+           <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
          </a>
       </div>
     </dev>
