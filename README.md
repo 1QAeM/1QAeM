@@ -2,7 +2,7 @@
 #Fopolitro
 <div id="header" align="center">
   
-   <img src="https://media.giphy.com/media/xUOxfpptIctnLn7IMo/giphy.gif" width="300"/>
+   <img align="right" src="https://media.giphy.com/media/xUOxfpptIctnLn7IMo/giphy.gif" width="300"/>
  
 </div>
 <div id="header" alighn="center"> 
