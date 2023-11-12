@@ -9,6 +9,8 @@
 
 </div>
 <div id="header" align="center" color="red"> 
+ <img  align="left" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="90" height="200"/>
+  <img  align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="90" height="200"/>
   <h1> My name is Aleksandr </h1>
 </div>
 
