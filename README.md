@@ -1,7 +1,8 @@
 # Portfolio
 #Fopolitro
 <div id="header" align="center">
-  
+ 
+   <img src=" https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="900" height="200" color="red"/>
    <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200" color="red"/>
       <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="50" height="50"/>
       <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="90"/>
