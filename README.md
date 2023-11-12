@@ -47,7 +47,7 @@
  <a href="https://www.python.org/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
  </a>
-    <a htef="https://www.selenium.dev/">
+    <a href="https://www.selenium.dev/">
   <img src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     </a>
  <a href="https://www.mysql.com/">
