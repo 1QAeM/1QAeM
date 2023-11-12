@@ -20,10 +20,10 @@
  <h1 align="center"> I 💗 💻...but not🖤 BUGS.....That's why I hunt them👀 </h1>
  <img  src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/>
  
- <img  src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" width="200" height="200"/>
- <img  src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
- <img  src="https://media.giphy.com/media/fTne319LfO6Noh80qD/giphy.gif" width="200" height="200"/>
- <img  src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="190" height="200"/>
+ <img align="center" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" width="200" height="200"/>
+ <img align="center" src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
+ <img align="center" src="https://media.giphy.com/media/fTne319LfO6Noh80qD/giphy.gif" width="200" height="200"/>
+ <img align="center" src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="190" height="200"/>
  
 </div>
 
