@@ -1,5 +1,5 @@
-<h1 align="center" color="red">Portfolio</h1>
-<font color="green"> Welcome to freeCodeCamp. </font> 
+<h1 align="center" color="lime">Portfolio</h1>
+
 
 <div id="header">
  <img  align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
