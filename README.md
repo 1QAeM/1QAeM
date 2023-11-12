@@ -10,4 +10,4 @@ I love
 -:computer: Computers 
 
 ### Skills and Tools
-[<img align="left"> alt="HTML5" width="100px" src="<iframe src="https://giphy.com/embed/BCL8y2qRqYb96" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/terminator-2-BCL8y2qRqYb96">via GIPHY</a></p>"]
+[<img align="left"> alt="HTML5" src="https://giphy.com/embed/BCL8y2qRqYb96" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/terminator-2-BCL8y2qRqYb96">via GIPHY</a></p>"]
