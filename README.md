@@ -2,7 +2,8 @@
 #Fopolitro
 <div id="header" align="center">
   
-   <img align="right" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="700" height="900"/>
+   <img align="right" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100" height="1000"/>
+   <img align="left" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100" height="1000"/>
 
 </div>
 <div id="header" alighn="center"> 
