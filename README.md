@@ -17,5 +17,8 @@ I love
 [<img align="left"> alt="SQL">]
 [<img align="left"> alt="Selenium">]
 
-[<img align="left"> alt="HTML5">][linkedin]
+[<img align="left"> alt="Linkedin">][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/aleksandrguz/
 
