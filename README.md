@@ -2,6 +2,7 @@
 #Fopolitro
 <div id="header" alighn="center"> 
   <h1> Hello) How are you doing today?) </h1>
+  <h1> My name is Aleksandr </h1>
 </div>
 ##     *How are you doing today? I hope you doing well)*
 ## Few words about me...I'm QA Engineer...or i should say >>> Software QA Engineer
