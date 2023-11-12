@@ -2,8 +2,8 @@
 #Fopolitro
 <div id="header" align="center">
   
-   <img align="right" src="https://media.giphy.com/media/xUOxfpptIctnLn7IMo/giphy.gif" width="300" height="400"/>
- 
+   <img align="right" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="300" height="400"/>
+
 </div>
 <div id="header" alighn="center"> 
   <h1> Hello) How are you doing today?) </h1>
