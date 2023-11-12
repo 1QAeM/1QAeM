@@ -71,9 +71,9 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
- <dev><h1 align="center">About me</dev>
+ <dev><h1 align="center">About me </h1></dev>
   <dev>
- <h2 align="left">Love my wife</h2>
+ <h3 align="left">Love my wife</h3>
   -Love what i do
   -Love to learn new things
   -Love play,create,testing computer games
