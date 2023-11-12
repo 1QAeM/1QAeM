@@ -10,4 +10,4 @@ I love
 -:computer: Computers 
 
 ### Skills and Tools
-[<img align="left"> alt="HTML5"[ src="https://giphy.com/embed/BCL8y2qRqYb96" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/terminator-2-BCL8y2qRqYb96">via GIPHY</a></p>](http://thats-n0-moon.tumblr.com/post/50258213500)http://thats-n0-moon.tumblr.com/post/50258213500](http://thats-n0-moon.tumblr.com/post/50258213500)http://thats-n0-moon.tumblr.com/post/50258213500"]
+[<img align="left"> alt="HTML5"  http://thats-n0-moon.tumblr.com/post/50258213500>]
