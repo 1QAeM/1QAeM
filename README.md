@@ -1,7 +1,7 @@
 # Portfolio
 #Fopolitro
 <div id="header">
- <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
+ <img  align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
    <img src="https://media.giphy.com/media/bAy8xK8qcCz0A/giphy.gif" width="900" height="200" color="red"/>
       <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
         
@@ -13,8 +13,8 @@
   <h1> My name is Aleksandr </h1>
 </div>
 
-<div alighn="center">
-  <h1  alighn="center">I'M >>> Software QA Engineer <<< </h1>
+<div align="center">
+  <h1  align="center">I'M >>> Software QA Engineer <<< </h1>
 </div>
 <div>
  <a1> if you are here, then you are wondering who I am...</a1>
