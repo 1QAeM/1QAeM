@@ -12,7 +12,7 @@
  <h1><ins> My name is Aleksandr Guz </ins></h1>
  <img  align="left" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
  <img  align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
- <img  align="center" src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
+ 
  
 </div>
 
