@@ -20,15 +20,7 @@
  <a1> if you are here, then you are wondering who I am...</a1>
 <a11>I very love work with computers </a11>
  <img align="right" src=" https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="90" height="200"/>
-  <a2 href="https://www.linkedin.com/in/aleksandrguz/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a2>
-  <a3 href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a3>
-  <a4 href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a4>
+
 </div>
 </div>
 
