@@ -5,8 +5,8 @@
   <h1> My name is Aleksandr </h1>
 </div>
 
-<div>
-  Few words about me...I'm QA Engineer...or i should say >>> Software QA Engineer 
+<div alighn="center">
+  <h1>I'M >>> Software QA Engineer <<< </h1>
 </div>
 <div>
   if you are here, then you are wondering who I am...or, as they say in some countries " what kind of fruit are you " ?) 
