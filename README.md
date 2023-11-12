@@ -1,5 +1,4 @@
 <h1 align="center" color="lime">Portfolio</h1>
-
 <div id="header">
    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.giff" width="1024" height="200" color="red"/>
 </div>
