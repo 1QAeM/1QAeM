@@ -5,7 +5,7 @@
    <img src="https://media.giphy.com/media/bAy8xK8qcCz0A/giphy.gif" width="832" height="200" color="red"/>
       <img align="right" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
         
-  
+  https://media.giphy.com/media/kHU8W94VS329y/giphy.gif
 
 </div>
 <div id="header" align="center" color="red"> 
@@ -18,7 +18,8 @@
 </div>
 <div>
  <a1> if you are here, then you are wondering who I am...</a1>
-
+<a11>I very love work with computers </a11>
+ <img align="right" src=" https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="90" height="200"/>
   <a2 href="https://www.linkedin.com/in/aleksandrguz/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a2>
