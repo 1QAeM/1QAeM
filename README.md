@@ -1,9 +1,9 @@
 <h1 align="center" color="lime">Portfolio</h1>
 
 <div id="header">
- <img  align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
+ <img  align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="30" height="200"/>
    <img src="https://media.giphy.com/media/bAy8xK8qcCz0A/giphy.gif" width="832" height="200" color="red"/>
-      <img align="right" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="90" height="200"/>
+      <img align="right" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="30" height="200"/>
 </div>
 
  <div id="header" align="center" color="red"> 
