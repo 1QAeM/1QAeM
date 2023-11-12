@@ -1,7 +1,7 @@
 <h1 align="center" color="lime">Portfolio</h1>
 
 <div id="header">
-   <img src="https://media.giphy.com/media/bAy8xK8qcCz0A/giphy.gif" width="832" height="200" color="red"/>
+   <img src="https://media.giphy.com/media/bAy8xK8qcCz0A/giphy.gif" width="1024" height="200" color="red"/>
 </div>
 
  <div id="header" align="center"> 
@@ -62,7 +62,7 @@
 
 
  
- <dev><h1 align="center">About me </h1></dev>
+ <dev><h1 align="center"> About me </h1></dev>
   <dev>
  <h3 align="center">-Love my wife</h3>
    <h3 align="left">-Love what i do</h3>
