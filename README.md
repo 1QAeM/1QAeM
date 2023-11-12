@@ -9,11 +9,11 @@
 
 </div>
 <div id="header" align="center" color="red"> 
+ <h1><ins> My name is Aleksandr Guz </ins></h1>
  <img  align="left" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
-   <img  align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
-     <img  align="center" src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
-
-  <h1> My name is Aleksandr Guz </h1>
+ <img  align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="110" height="110"/>
+ <img  align="center" src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
+ 
 </div>
 
 <div align="center">
@@ -23,6 +23,7 @@
     <b1><h3 align="center">I very love work with computers...love tesing</h3></b1> 
       </div>
    <div>
+   <img  align="center" src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
    <img align="right" src="https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="200" height="200"/>
    <img align="left" src="https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif" width="200" height="200"/>
 
