@@ -24,13 +24,10 @@
       </div>
    
    <div> 
-      
+      <img   slign="center" src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
    </div>
    
-   <div>
-   <img   slign="center" src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
-    
-    
+   <div> 
    <img align="right" src="https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="200" height="200"/>
    <img align="left" src="https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif" width="200" height="200"/>
 
