@@ -1,7 +1,7 @@
 <h1 align="center" color="lime">Portfolio</h1>
 
 <div id="header">
-   <img src="https://media.giphy.com/media/bAy8xK8qcCz0A/giphy.gif" width="1024" height="200" color="red"/>
+   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="1024" height="200" color="red"/>
 </div>
 
  <div id="header" align="center"> 
