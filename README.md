@@ -13,9 +13,10 @@
   <h2  align="center">I'M >>>Software QA Engineer <<< </h2>
 </div>
 
+<div>   
+ <img align="right" src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="full_screen" height="200"/>
 
-
-  <div> <b1></b1> </div>
+</div>
 
    
 <div> 
