@@ -20,7 +20,7 @@
   <h1  align="center">I'M >>> Software QA Engineer <<< </h1>
 </div>
    <div>
-    <b1><h3 align="center">I very love work with computers...love tesing</h3></b1> 
+    <b1><h1> align="center">I very love work with computers...</h1></b1> 
       </div>
    <div>
    <img   src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="110" height="110"/>
