@@ -18,29 +18,10 @@
 </div>
 <div>
  <a1> if you are here, then you are wondering who I am...</a1>
-<a11>I very love work with computers </a11>
- <img align="right" src="https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="100" height="100"/>
+  <a11>I very love work with computers </a11>
+   <img align="right" src="https://media.giphy.com/media/kHU8W94VS329y/giphy.gif" width="200" height="200"/>
 
 </div>
 </div>
-
-I love
--:family: my family and -🎵 music
--:computer: Computers 
-
-### Skills and Tools
-[<img align="left"> alt="HTML5">]
-[<img align="left"> alt="CSS">]
-[<img align="left"> alt="PYTHON">]
-[<img align="left"> alt="JS">]
-[<img align="left"> alt="SQL">]
-[<img align="left"> alt="Selenium">]
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/aleksandrguz/
-
-
 
 #Fopolitro
