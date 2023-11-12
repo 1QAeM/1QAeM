@@ -20,7 +20,7 @@
 
    
 <div> 
- <h1 align="left"> I 💗 work with 💻... </h1>
+ <h1 align="left"> I 💗 💻... </h1>
  <img align="center" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/>
  
  
