@@ -1,9 +1,7 @@
 # Portfolio
 #Fopolitro
 <div id="header" align="center">
-  
-   <img align="right" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="300" height="1000"/>
-   <img align="left" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="300" height="1000"/>
+   <img align="left" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="200" height="200"/>
 
 </div>
 <div id="header" alighn="center"> 
