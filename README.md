@@ -64,7 +64,6 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
          </a>
          <a href="https://www.youtube.com/watch?v=OD7uVurKx14">
            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
-           <img align="center" src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="190" height="200"/> 
          </a>
       </div>
     </dev>
