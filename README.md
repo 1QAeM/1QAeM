@@ -57,7 +57,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  <h3 align="left">-Love my wife</h3>
    <h3 align="left">-Love what i do</h3>
      <h3 align="left">-Love to learn new things</h3>
-       <h3 align="left">-Love play,create,testing computer games,apps</h3>
+       <h3 align="left">-Love play,create,testing computer apps,games</h3>
        <div id="badges" align="center">
          <a href="https://www.linkedin.com/in/aleksandrguz/">
            <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
