@@ -63,7 +63,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
            <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
          </a>
          <a href="https://www.youtube.com/watch?v=OD7uVurKx14">
-           <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
+           <img src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
          </a>
       </div>
     </dev>
