@@ -60,7 +60,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
        <h3 align="left">-Love testing computer apps,games</h3>
        <div id="badges" align="center">
          <a href="https://www.linkedin.com/in/aleksandrguz/">
-           <img  src="https://img.shields.io/badge/AleksGuz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+           <img  src="https://img.shields.io/badge/Aleks.Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
          </a>
          <a href="https://www.youtube.com/watch?v=OD7uVurKx14">
            <img src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
