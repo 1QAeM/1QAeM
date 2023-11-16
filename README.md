@@ -6,7 +6,7 @@
   <img  align="left" src="https://media.giphy.com/media/ZJ6IOBmCaj5f2/giphy.gif" width="110" height="110"/>
     <img  align="right" src="https://media.giphy.com/media/ZJ6IOBmCaj5f2/giphy.gif" width="110" height="110"/>
      <h1><ins> Hello! My name is Aleksandr Guz </ins></h1>
-       <h2  align="center">I'M >>>Software QA Engineer <<< </h2>
+       <h2  align="center">I'm>>>Software QA Engineer<<< </h2>
 </div>
 <div>   
  <img align="right" src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1024" height="128"/>
