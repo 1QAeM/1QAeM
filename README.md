@@ -67,7 +67,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  <h1 align="center"> I 💗 💻...but not🖤 BUGS.....That's why I hunt them👀 </h1>
  <img align="center" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/> 
  <img align="center" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" width="200" height="200"/>
- <img align="center" src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
+ <img align="right" src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
  <img align="right" src="https://media.giphy.com/media/fTne319LfO6Noh80qD/giphy.gif" width="200" height="200"/>
 
 </div>
