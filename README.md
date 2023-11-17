@@ -1,7 +1,7 @@
-<div align="center"><h1><ins> Hello! My name is <a href="https://www.linkedin.com/in/aleksandrguz/">
-           <img  src="https://img.shields.io/badge/Aleksandr Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </ins></h1>
+<div align="center"><h1> Hello! My name is <ins><a href="https://www.linkedin.com/in/aleksandrguz/">
+           <img  src="https://img.shields.io/badge/Aleksandr Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></ins> </h1>
 </div>
-       <h2  align="center">I'm>>>Software QA Engineer<<< </h2>
+       <h2  align="center">I'm>>>Software <ins>QA Engineer</ins>ins><<< </h2>
  
  <dev><h1 align="left"> About me </h1></dev>
   <dev>
@@ -45,7 +45,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
 
 
-<h1 align="center" color="lime"> About me in pics</h1>
+<h1 align="center" color="lime"> About me in <ins>pics</ins>ins></h1>
 <div id="header">
    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1024" height="200" color="red"/>
 </div>
@@ -58,7 +58,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  <img align="right" src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1024" height="128"/>
 </div>   
 <div> 
- <h1 align="center"> I 💗 💻...but not🖤 BUGS.....That's why I hunt them👀 </h1>
+ <h1 align="center"> I 💗 💻...but <ins>not🖤</ins>ins> BUGS.....That's why I hunt them👀 </h1>
  <img align="center" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/> 
  <img align="center" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" width="200" height="200"/>
  <img align="right" src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
