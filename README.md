@@ -12,7 +12,7 @@
     </dev>
 <br/>
 <br/>
- </br>
+
 <h2 align="center">:hammer_and_wrench: Languages and Tools </h2>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,13 +44,13 @@
 title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
  </br>
-  </br>
+</br>
  <div id="badges" >
          <a  href="https://www.linkedin.com/in/aleksandrguz/">
            <img align="left" src="https://img.shields.io/badge/Aleks.Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
          </a>
          <a   href="https://www.youtube.com/watch?v=OD7uVurKx14">
-           <img align="right" src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
+           <img align="left" src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
          </a>
 </div>
 
