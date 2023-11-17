@@ -43,7 +43,14 @@
        <img  align="right" src="https://camo.githubusercontent.com/c679520a365f38298778c67638cf97c18db4f4e7f960cc7362c75d908760f12d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2d776f72646d61726b2e737667"
 title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
-
+ <div id="badges" >
+         <a  href="https://www.linkedin.com/in/aleksandrguz/">
+           <img align="left" src="https://img.shields.io/badge/Aleks.Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+         </a>
+         <a   href="https://www.youtube.com/watch?v=OD7uVurKx14">
+           <img align="right" src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
+         </a>
+</div>
 
 <h1 align="center" color="lime"> About me in <ins>pics</ins></h1>
 <div id="header">
