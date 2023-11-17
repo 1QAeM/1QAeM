@@ -9,14 +9,6 @@
    <h3 align="left">-Love what i do❤</h3>
      <h3 align="left">-Love to learn new things❤</h3>
        <h3 align="left">-Love testing computer apps,💕games</h3>
-       <div id="badges" align="center">
-         <a href="https://www.linkedin.com/in/aleksandrguz/">
-           <img  src="https://img.shields.io/badge/Aleks.Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-         </a>
-         <a href="https://www.youtube.com/watch?v=OD7uVurKx14">
-           <img src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
-         </a>
-      </div>
     </dev>
 <br/>
 <br/>
@@ -73,11 +65,11 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  <img align="right" src="https://media.giphy.com/media/fTne319LfO6Noh80qD/giphy.gif" width="200" height="200"/>
 
 </div>
- <div id="badges" align="center">
-         <a href="https://www.linkedin.com/in/aleksandrguz/">
+ <div id="badges" >
+         <a align="left" href="https://www.linkedin.com/in/aleksandrguz/">
            <img  src="https://img.shields.io/badge/Aleks.Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
          </a>
-         <a href="https://www.youtube.com/watch?v=OD7uVurKx14">
+         <a  align="right" href="https://www.youtube.com/watch?v=OD7uVurKx14">
            <img src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
          </a>
       </div>
