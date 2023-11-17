@@ -45,7 +45,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
 
 
-<h1 align="center" color="lime"> About me in <ins>pics</ins>ins></h1>
+<h1 align="center" color="lime"> About me in <ins>pics</ins></h1>
 <div id="header">
    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1024" height="200" color="red"/>
 </div>
@@ -58,7 +58,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
  <img align="right" src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1024" height="128"/>
 </div>   
 <div> 
- <h1 align="center"> I 💗 💻...but <ins>not🖤</ins>ins> BUGS.....That's why I hunt them👀 </h1>
+ <h1 align="center"> I 💗 💻...but <ins>not🖤</ins> BUGS.....That's why I hunt them👀 </h1>
  <img align="center" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" height="200"/> 
  <img align="center" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" width="200" height="200"/>
  <img align="right" src="https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif" width="200" height="200"/>
