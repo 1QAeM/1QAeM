@@ -53,7 +53,8 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
            <img align="left" src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
          </a>
 </div>
-
+<br/>
+<br/>
 <h1 align="center" color="lime"> About me in <ins>pics</ins></h1>
 <div id="header">
    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1024" height="200" color="red"/>
