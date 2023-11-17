@@ -1,7 +1,7 @@
 <div align="center"><h1> Hello! My name is <ins><a href="https://www.linkedin.com/in/aleksandrguz/">
            <img  src="https://img.shields.io/badge/Aleksandr Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></ins> </h1>
 </div>
-       <h2  align="center">I'm>>>Software <ins>QA Engineer</ins>ins><<< </h2>
+       <h2  align="center">I'm>>>Software <ins>QA Engineer</ins><<< </h2>
  
  <dev><h1 align="left"> About me </h1></dev>
   <dev>
