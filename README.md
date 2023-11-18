@@ -82,6 +82,6 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
          <a   href="https://www.youtube.com/watch?v=OD7uVurKx14">
            <img align="right" src="https://img.shields.io/badge/My_Game-red?style=for-the-badge&logo=My_Game&logoColor=white" alt="My_Game"/>
          </a>
-      </div>
+</div>
 
 
