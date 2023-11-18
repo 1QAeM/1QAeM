@@ -5,10 +5,10 @@
  
  <dev><h1 align="left"> About me </h1></dev>
   <dev>
- <h3 align="left">-Love my family💗</h3>
-   <h3 align="left">-Love what i do❤</h3>
-     <h3 align="left">-Love to learn new things❤</h3>
-       <h3 align="left">-Love testing computer apps,💕games</h3>
+ <h3 align="left">-Love my family</h3>
+   <h3 align="left">-Love what i do</h3>
+     <h3 align="left">-Love to learn new things</h3>
+       <h3 align="left">-Love testing computer apps,games</h3>
     </dev>
 <br/>
 <br/>
