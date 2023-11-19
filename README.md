@@ -42,8 +42,8 @@
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
  </a>
  </a>
-  <a href="https://cdn-icons-png.flaticon.com/128/733/733553.png">
-       <img  align="right" src="https://en.wikipedia.org/wiki/GITHUB"
+  <a href="https://github.com/">
+       <img  align="right" src="https://cdn-icons-png.flaticon.com/128/536/536452.png"
 title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
  </br>
