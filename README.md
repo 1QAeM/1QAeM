@@ -42,7 +42,7 @@
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
  </a>
  </a>
-  <a href="https://img.icons8.com/?size=64&id=u9R54eMKS8fw&format=png">
+  <a href="https://img.icons8.com/?size=48&id=Mhl1TfJLdkh5&format=png">
        <img  align="right" src="https://en.wikipedia.org/wiki/SQL"
 title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
