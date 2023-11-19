@@ -27,16 +27,16 @@
      <img src="https://cdn-icons-png.flaticon.com/128/1447/1447876.png?track=ais" title="python" alt="python" width="40" height="40"/>&nbsp;
  </a>
   <a href="https://www.sql.org/">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+     <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
  </a>
     <a href="https://www.selenium.dev/">
-  <img align="right" src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     </a>
  <a href="https://en.wikipedia.org/wiki/SQL">
      <img align="right" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
  </a>
  <a href="https://www.postman.com/">
-       <img  align="right" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+       <img  align="right" src="https://cdn-icons-png.flaticon.com/128/2624/2624902.png?track=ais" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
  </a>
   <a href="https://www.jetbrains.com/pycharm/">
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
