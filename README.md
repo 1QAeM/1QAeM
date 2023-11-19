@@ -26,7 +26,7 @@
  <a href="https://www.python.org/">
      <img src="https://cdn-icons-png.flaticon.com/128/1447/1447876.png?track=ais" title="python" alt="python" width="40" height="40"/>&nbsp;
  </a>
-  <a href="https://www.sql.org/">
+  <a href="https://en.wikipedia.org/wiki/SQL">
      <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
  </a>
     <a href="https://www.selenium.dev/">
