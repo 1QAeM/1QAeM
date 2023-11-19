@@ -21,7 +21,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/128/381/381742.png?track=ais" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  </a>
  <a href="https://www.python.org/">
      <img src="https://cdn-icons-png.flaticon.com/128/1447/1447876.png?track=ais" title="python" alt="python" width="40" height="40"/>&nbsp;
