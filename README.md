@@ -32,7 +32,7 @@
     <a href="https://www.selenium.dev/">
   <img align="right" src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     </a>
- <a href="https://www.mysql.com/">
+ <a href="https://en.wikipedia.org/wiki/SQL">
      <img align="right" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
  </a>
  <a href="https://www.postman.com/">
@@ -42,8 +42,8 @@
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
  </a>
  </a>
-  <a href="https://www.github.com">
-       <img  align="right" src="https://camo.githubusercontent.com/c679520a365f38298778c67638cf97c18db4f4e7f960cc7362c75d908760f12d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2d776f72646d61726b2e737667"
+  <a href="https://img.icons8.com/?size=64&id=u9R54eMKS8fw&format=png">
+       <img  align="right" src="https://en.wikipedia.org/wiki/SQL"
 title="Git" alt="Git" width="70" height="70"/>&nbsp;
  </a>
  </br>
