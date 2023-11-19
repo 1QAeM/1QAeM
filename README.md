@@ -15,10 +15,10 @@
 
 <h2 align="center">:hammer_and_wrench: Languages and Tools i usinig for this moment</h2>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/7273/7273959.png?track=ais"  alt="CSS" width="40" height="40"/>&nbsp;
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://cdn-icons-png.flaticon.com/128/6864/6864002.png?track=ais" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn-icons-png.flaticon.com/128/381/381742.png?track=ais" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
   <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     </a>
  <a href="https://en.wikipedia.org/wiki/SQL">
-     <img align="right" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
+     <img align="right" src="https://cdn-icons-png.flaticon.com/128/402/402214.png?track=ais" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
  </a>
  <a href="https://www.postman.com/">
        <img  align="right" src="https://cdn-icons-png.flaticon.com/128/2624/2624902.png?track=ais" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
