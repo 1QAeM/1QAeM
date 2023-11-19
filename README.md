@@ -3,7 +3,7 @@
 </div>
        <h2  align="center">I'm>>> <img src="https://cdn-icons-png.flaticon.com/128/2655/2655713.png?track=ais"  alt="Comp" width="40" height="40"/>&nbsp; Software <ins>QA Engineer <img src="https://cdn-icons-png.flaticon.com/128/8740/8740928.png?track=ais"  alt="Comp" width="40" height="40"/>&nbsp; </ins><<< </h2>
  
- <dev><h1 align="left"> About me </h1></dev>
+ <dev><h1 align="left"><img src="https://cdn-icons-png.flaticon.com/128/9364/9364236.png?track=ais"  alt=">>>" width="40" height="40"/>&nbsp; About me </h1></dev>
   <dev>
  <h3 align="left">-Love my family</h3>
    <h3 align="left">-Love what i do</h3>
