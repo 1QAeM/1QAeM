@@ -19,32 +19,32 @@
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
    <img src="https://cdn-icons-png.flaticon.com/128/6864/6864002.png?track=ais" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
- </a>
+    </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn-icons-png.flaticon.com/128/381/381742.png?track=ais" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- </a>
+    </a>
  <a href="https://www.python.org/">
      <img src="https://cdn-icons-png.flaticon.com/128/1447/1447876.png?track=ais" title="python" alt="python" width="40" height="40"/>&nbsp;
  </a>
   <a href="https://en.wikipedia.org/wiki/SQL">
      <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
- </a>
+    </a>
     <a href="https://www.selenium.dev/">
   <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="55" height="55"/>&nbsp;
     </a>
  <a href="https://en.wikipedia.org/wiki/SQL">
      <img align="right" src="https://cdn-icons-png.flaticon.com/128/402/402214.png?track=ais" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
- </a>
+    </a>
  <a href="https://www.postman.com/">
        <img  align="right" src="https://global.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
- </a>
+   </a>
   <a href="https://www.jetbrains.com/pycharm/">
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
- </a>
- </a>
+   </a>
+ 
   <a href="https://github.com/">
        <img  align="right" src="https://cdn-icons-png.flaticon.com/128/536/536452.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
- </a>
+    </a>
  </br>
 </br>
  <div id="badges" >
