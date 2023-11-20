@@ -58,7 +58,7 @@ title="Git" alt="Git" width="70" height="70"/>&nbsp;
 </div>
 <br/>
 <br/>   
-<h1 align="center" color="lime"> About me in <img src="https://cdn-icons-png.flaticon.com/128/238/238336.png?track=ais"></h1>
+<h1 align="center" color="lime"> About me in <img src="https://cdn-icons-png.flaticon.com/128/238/238336.png?track=ais" width="40" height="40"></h1>
 <div id="header">
    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1024" height="200" color="red"/>
 </div>
