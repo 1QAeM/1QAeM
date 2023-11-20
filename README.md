@@ -29,7 +29,7 @@
   <a href="https://en.wikipedia.org/wiki/SQL">
      <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     </a>
-    <a href="https://www.selenium.dev/">
+ <a href="https://www.selenium.dev/">
   <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="55" height="55"/>&nbsp;
     </a>
  <a href="https://en.wikipedia.org/wiki/SQL">
@@ -38,15 +38,15 @@
  <a href="https://www.postman.com/">
        <img  align="right" src="https://global.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
    </a>
-  <a href="https://www.jetbrains.com/pycharm/">
+ <a href="https://www.jetbrains.com/pycharm/">
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
    </a>
  
-  <a href="https://github.com/">
+ <a href="https://github.com/">
        <img  align="right" src="https://cdn-icons-png.flaticon.com/128/536/536452.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
     </a>
  </br>
-</br>
+ </br>
  <div id="badges" >
          <a  href="https://www.linkedin.com/in/aleksandrguz/">
            <img align="left" src="https://img.shields.io/badge/Aleks.Guz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
