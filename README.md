@@ -12,23 +12,25 @@
     </dev>
 <br/>
 <br/>
-
-<h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn-icons-png.flaticon.com/128/7273/7273959.png?track=ais"  alt="CSS" width="40" height="40"/>&nbsp;
- </a>
- <a href="https://en.wikipedia.org/wiki/HTML">
-   <img src="https://cdn-icons-png.flaticon.com/128/6864/6864002.png?track=ais" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<div id="languages">
+  <h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn-icons-png.flaticon.com/128/7273/7273959.png?track=ais"  alt="CSS" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://cdn-icons-png.flaticon.com/128/6864/6864002.png?track=ais" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn-icons-png.flaticon.com/128/381/381742.png?track=ais" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    </a>
- <a href="https://www.python.org/">
+   </a>
+   <a href="https://www.python.org/">
      <img src="https://cdn-icons-png.flaticon.com/128/1447/1447876.png?track=ais" title="python" alt="python" width="40" height="40"/>&nbsp;
- </a>
-  <a href="https://en.wikipedia.org/wiki/SQL">
+   </a>
+   <a href="https://en.wikipedia.org/wiki/SQL">
      <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     </a>
+</div> 
+
  <a href="https://www.selenium.dev/">
   <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="55" height="55"/>&nbsp;
     </a>
