@@ -43,8 +43,7 @@
  </a>
  </a>
   <a href="https://github.com/">
-       <img  align="right" src="https://cdn-icons-png.flaticon.com/128/536/536452.png"
-title="Git" alt="Git" width="70" height="70"/>&nbsp;
+       <img  align="right" src="https://cdn-icons-png.flaticon.com/128/536/536452.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  </a>
  </br>
 </br>
