@@ -30,7 +30,7 @@
      <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
  </a>
     <a href="https://www.selenium.dev/">
-  <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img align="right" src="https://cdn-icons-png.flaticon.com/128/9907/9907060.png?track=ais" title="Selenium" alt="Selenium" width="55" height="55"/>&nbsp;
     </a>
  <a href="https://en.wikipedia.org/wiki/SQL">
      <img align="right" src="https://cdn-icons-png.flaticon.com/128/402/402214.png?track=ais" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
