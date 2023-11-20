@@ -36,7 +36,7 @@
      <img align="right" src="https://cdn-icons-png.flaticon.com/128/402/402214.png?track=ais" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
  </a>
  <a href="https://www.postman.com/">
-       <img  align="right" src="https://cdn-icons-png.flaticon.com/128/2624/2624902.png?track=ais" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+       <img  align="right" src="https://global.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
  </a>
   <a href="https://www.jetbrains.com/pycharm/">
        <img  align="right" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="70" height="70"/>&nbsp;
