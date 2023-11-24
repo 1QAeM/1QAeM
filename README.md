@@ -28,7 +28,13 @@
    </a>
    <a href="https://en.wikipedia.org/wiki/SQL">
      <img src="https://cdn-icons-png.flaticon.com/128/2644/2644127.png?track=ais" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://en.wikipedia.org/wiki/JSON">
+      <img src="https://cdn-icons-png.flaticon.com/128/8297/8297388.png?ga=GA1.1.1525279164.1700370416&semt=ais" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
     </a>
+   <a href="https://en.wikipedia.org/wiki/XML">
+     <img src="https://cdn-icons-png.flaticon.com/128/8263/8263329.png?ga=GA1.1.1525279164.1700370416&semt=ais" title="XML" alt="XML" width="40" height="40"/>&nbsp;
+   </a>
 </div> 
 <div>
    <a href="https://www.selenium.dev/">
